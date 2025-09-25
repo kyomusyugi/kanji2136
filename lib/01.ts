@@ -6,7 +6,7 @@ export type Word = {
   on: string;
 };
 
-export const words_01: Word[] = [
+export const 01: Word[] = [
   { kanji: "歌", kun: "노래", on: "가" },
   { kanji: "家", kun: "집", on: "가" },
   { kanji: "加", kun: "더할", on: "가" },
